@@ -1,0 +1,15 @@
+1. Compile with agent.c with make.
+
+2. Compile manager.java with javac. 
+
+3. Execute agent.c with a server name argument.
+   E.g. ./agent pyrite-n3
+
+4. Execute manager.java with "java manager".
+
+5. I have only completed BeaconSender and BeaconListener (only receiving and printing).
+
+6. I did as much as I could since I am juggling 4 Computer Science courses so this really took me a while to complete
+   (and I am also a slow learner). 
+
+
